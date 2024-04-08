@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBlgVuvMKDNxJa3v5X690E-gy0aKf_tbzo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>498159267515</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tiktwinFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>tiktwin-flutter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tiktwin-flutter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:498159267515:ios:df962d6b572c6b6631439e</string>
+</dict>
+</plist>

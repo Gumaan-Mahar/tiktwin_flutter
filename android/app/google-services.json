@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498159267515",
+    "project_id": "tiktwin-flutter",
+    "storage_bucket": "tiktwin-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498159267515:android:9652495b5ec85cea31439e",
+        "android_client_info": {
+          "package_name": "com.example.tiktwin_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKoax-sAuD1bIHvLR3CSzYuwy9AJcbHyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
