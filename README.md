@@ -1,6 +1,6 @@
 # TikTwin-Flutter
 
-A versatile video-sharing app with follow features, built for compatibility on all platforms using Flutter. It relies on Firebase for smooth database operations.
+A basic video-sharing app, built for compatibility on all platforms using Flutter. It relies on Firebase for smooth database operations.
 
 ## Features
 
